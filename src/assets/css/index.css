@@ -1,0 +1,9 @@
+body {
+  /* background: red; */
+  /* display: flex; */
+  background-image: url('../1.png')
+
+}
+::placeholder {
+  color: blue;
+}
